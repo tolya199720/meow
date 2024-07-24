@@ -19,7 +19,6 @@ namespace HelloGit
             f = int.Parse(Console .ReadLine());
             b = int.Parse(Console.ReadLine());
             Console.WriteLine("сума:"+ PArse(f, b));
-            string git = "git goud";
         }
     }
 }
